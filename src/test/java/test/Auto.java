@@ -31,7 +31,7 @@ public class Auto {
 				}				
 			}		
 		}
-		return "Auto Original";
+		return "Auto original";
 	}
 
 }
